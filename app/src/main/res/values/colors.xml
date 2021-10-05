@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF000000</color>
+    <color name="secondary">#FFFFFFFF</color>
+    <color name="red">#FFA12424</color>
+</resources>
